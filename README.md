@@ -5,6 +5,6 @@ I studied Telecommunication Engineering at Universidad Politécnica de Madrid an
 
 🌱 I’m currently learning data management with tools like Airflow, Spark, AWS...
 
-💞️ I’m looking to collaborate on Data Analysis/Engineering projects, more specifically projects about videogames or basketball.
+💞️ I’m looking to collaborate on Data Engineering projects, more specifically projects about videogames or basketball.
 
 📫 Reach me by mail (diezromero.arturo@gmail.com)
