@@ -1,4 +1,4 @@
-👋 Hi, I’m Arturo Díez telecommunications/telematic engineer looking for his first job in the world of data. 
+👋 Hi, I’m Arturo Díez, a data engineer looking for his first job in the world of data. 
 I studied Telecommunication Engineering at Universidad Politécnica de Madrid and Computer Sciences Engineering at INSA Lyon.
 
 👀 I’m interested in Data Engineering, web developpement...
